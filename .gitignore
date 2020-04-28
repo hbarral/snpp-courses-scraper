@@ -1,0 +1,5 @@
+node_modules
+.env
+courses.html
+courses.json
+courses.csv
